@@ -111,6 +111,7 @@ flowchart LR
   D --> E[Warehouse: BI / Analytics]
   C --> F[Quality Checks & Alerts]
   F --> G[Monitoring Dashboards]
+```
 
 ## 📊 GitHub Analytics
 <p align="center">
