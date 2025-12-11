@@ -9,52 +9,48 @@
   <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge"/>
 </p>
 
-
+---
 
 ## 🌟 About Me — Precision. Clarity. Engineering.
 
-I’m Anika, a data engineer who believes in building systems that are *not just functional — but elegant, reliable, and scalable*.  
+I'm **Anika**, a data engineer who believes in building systems that are *not just functional — but elegant, reliable, and scalable.*  
 I focus on transforming raw, chaotic data into structured, intelligent pipelines that organizations can trust.
 
 My work blends:
 
-- Engineering discipline — predictable, testable, maintainable pipelines  
-- Analytical thinking — understanding data deeply, not just moving it  
-- System design mindset — thinking in terms of flow, constraints, and efficiency  
-- Aesthetic coding — clarity, consistency, and clean patterns  
+- **Engineering discipline** — predictable, testable, maintainable pipelines  
+- **Analytical thinking** — understanding data deeply, not just moving it  
+- **System design mindset** — flow, constraints, efficiency  
+- **Aesthetic coding** — clarity, consistency, clean patterns  
 
-I'm not here to just "run jobs" — I'm here to build **data foundations** that last.
+I thrive where logic meets creativity. My goal is to build **data foundations** that last.
 
-I thrive in the space where **logic meets creativity**, designing data workflows that feel smooth, efficient, and intentional.
-
-
+---
 
 ## 🛠️ Technical Skillset
 
-### Core Engineering
-- ETL Pipelines • Data Modelling • Data Quality  
-- Orchestration • Automation • Monitoring  
+### **Core Engineering**
+- ETL Pipelines • Data Modelling • Data Profiling • Data Quality  
+- Workflow Orchestration • Automation • Observability  
 
-### Data & Big Data Technologies
-- Apache Spark  
-- Kafka  
-- Hadoop Ecosystem  
+### **Data & Big Data**
+- Apache Spark • Kafka • Hadoop Ecosystem  
 - Pandas for fast prototyping  
 
-### Cloud & Infrastructure
-- AWS (S3, EC2, Lambda fundamentals, IAM)  
+### **Cloud & Infra**
+- AWS (S3, EC2, Lambda basics, IAM)  
 - GCP (Storage, Compute, BigQuery concepts)  
 
-### Programming & Tools
+### **Programming & Tools**
 - Python • SQL  
-- Docker • Git • CI/CD Basics  
+- Git • Docker • CI/CD Basics  
 - JSON, CSV, API Data Processing  
 
-### Strengths
+### **Strengths**
+- Clean transformations  
 - Debugging pipelines with precision  
-- Converting messy data into clean structures  
-- High-signal communication & documentation  
-- Designing systems with future scale in mind  
+- Designing for scalability & reliability  
+- High-signal documentation  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
@@ -65,58 +61,44 @@ I thrive in the space where **logic meets creativity**, designing data workflows
   <img src="https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=googlecloud"/>
 </p>
 
-
+---
 
 ## 🚀 Featured Projects  
-> *Mini tools with real engineering purpose — each built with clarity, intention, and problem-solving discipline.*
 
+### 🔹 **Web Scraper — Automated Data Extraction Tool**  
+A sharp, efficient scraper that pulls structured content from webpages and outputs clean CSVs.  
+**Tech:** Python, Requests, BeautifulSoup  
+**Repo:** https://github.com/Anikakumari12/simple_web_scraper
 
+---
 
-### 🔹 Web Scraper — Automated Data Extraction Tool**  
-A sharp, efficient scraper that pulls structured content from any webpage and outputs clean CSV files.  
-Built with reliability in mind — user-agent rotation, error handling, and predictable output formatting.
+### 🔹 **JSON → CSV Converter — Intelligent Format Transformer**  
+Transforms nested JSON structures into flat, analysis-ready CSV files.  
+**Tech:** Python, JSON, CSV  
+**Repo:** https://github.com/Anikakumari12/json-to-csv-converter
 
-Tech: Python, Requests, BeautifulSoup  
-Repo: https://github.com/Anikakumari12/simple_web_scraper
+---
 
+### 🔹 **CSV Summary Tool — Lightning-Fast Data Profiler**  
+Generates instant insights: missing values, schema types, distributions, and more.  
+**Tech:** Python, Pandas  
+**Repo:** https://github.com/Anikakumari12/csv-summary-tool-v1
 
+---
 
-### 🔹 JSON → CSV Converter — Intelligent Format Transformer**  
-Transforms nested JSON objects into flat, analysis-ready CSV structures.  
-Perfect for API ingestion, log processing, and ETL preprocessing.
+### 🔹 **Text Log Analyzer — Pattern Detection Utility**  
+Processes unstructured logs to extract patterns, events, and error sequences.  
+**Tech:** Python, Regex  
+**Repo:** https://github.com/Anikakumari12/TextLogAnalyzer
 
-Tech: Python, JSON, CSV  
-Repo: https://github.com/Anikakumari12/json-to-csv-converter
+---
 
+### 🔧 **Coming Soon — The Next Level**  
+- **Mod Z — A robust, scalable data engineering pipeline**  
+- **3 full-scale data engineering systems**  
+- **Cloud-first automation workflows**
 
-
-### 🔹 CSV Summary Tool — Lightning-Fast Data Profiler**  
-A quick data-insight utility that generates profile summaries: missing values, schema types, counts, distributions, and more.
-
-Tech: Python, Pandas  
-Repo: https://github.com/Anikakumari12/csv-summary-tool-v1
-
-
-
-### 🔹 Text Log Analyzer — Pattern Detection Utility**  
-Processes unstructured text logs and extracts key events, error patterns, and metrics.  
-A foundational utility for log-based monitoring and alerting.
-
-Tech: Python, Regex, File Parsing  
-Repo: https://github.com/Anikakumari12/TextLogAnalyzer
-
-
-
-### 🔧 Coming Soon — The Next Level 
-Currently engineering:
-
-- Mod Z — A robust, scalable data engineering pipeline 
-- 3 full-scale data engineering systems 
-- Cloud-first automation workflows
-
-These will be published once they meet production-level standards.
-
-
+---
 
 ## 🧭 System Architecture Mindset (Snapshot)
 
@@ -135,7 +117,6 @@ flowchart LR
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anikakumari12&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-
 ## 🌐 Connect With Me
 <p>
   <b>LinkedIn:</b> https://www.linkedin.com/in/anika-kumari-data-engineer/  
@@ -143,6 +124,8 @@ flowchart LR
 </p>
 
 
-## 🎯 Final Philosophy  
-I believe engineering is an art — clarity is elegance, reliability is beauty, and scalability is intelligence.  
+🎯 Final Philosophy
+
+I believe engineering is an art — clarity is elegance, reliability is beauty, and scalability is intelligence.
 My goal is to build data systems that are simple, predictable, and impossible to break.
+
