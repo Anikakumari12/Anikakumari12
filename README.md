@@ -132,12 +132,5 @@ flowchart LR
 <p align="center">
   <i>“Engineering is the architecture of logic — and I’m here to build with precision.”</i>
 </p>
-```
 
-🌟 ✨ ANIKA’S ENGINEERING PHILOSOPHY (Anika Kumari)
 
-I don’t just write code — I architect systems.
-Systems that transform chaos into clarity, scale without breaking, and remain elegant long after execution.
-Complexity is common.
-Clarity is mastery.
-My work is to make clarity inevitable.
