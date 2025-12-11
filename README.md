@@ -129,8 +129,10 @@ flowchart LR
 
 
 ## 🌐 Connect With Me
+	•	LinkedIn: https://www.linkedin.com/in/anika-kumari-data-engineer/
+	•	Email: anikakumariofficial@gmail.com
 <p align="center">
   <i>“Engineering is the architecture of logic — and I’m here to build with precision.”</i>
 </p>
-```
+
 
