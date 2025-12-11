@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Data%20Engineer-black?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-ETL%20%7C%20Cloud%20%7C%20Big%20Data-darkgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Location-India-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Bangalore, Karnataka, India-blue?style=for-the-badge"/>
 </p>
 
 ---
