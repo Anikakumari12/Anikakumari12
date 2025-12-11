@@ -1,133 +1,143 @@
-<!-- Interactive Header -->
+<!-- Global Branding Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=800&color=000000&center=true&vCenter=true&width=900&lines=Anika+Kumari;Data+Engineer+%7C+ETL+Developer+%7C+Cloud+%26+Big+Data;Designing+Clean+%26+Intelligent+Data+Systems" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1200&color=000000&center=true&vCenter=true&width=1000&lines=Anika+Kumari;Engineer+Of+Systems+%7C+Designer+Of+Data;Building+Tools+That+Shape+The+Future" alt="Typing Animation"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Data%20Engineer-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-ETL%20%7C%20Cloud%20%7C%20Big%20Data-darkgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Location-Bangalore, Karnataka, India-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Identity-Engineer%20%7C%20Innovator%20%7C%20Architect-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mission-Building%20Clarity%20In%20Chaos-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20Systems%20%7C%20Tooling-green?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🌟 About Me — Precision. Clarity. Engineering.
+# 🌍 Who I Am — A Multi-Dimensional Engineer
 
-I'm **Anika**, a data engineer who believes in building systems that are *not just functional — but elegant, reliable, and scalable.*  
-I focus on transforming raw, chaotic data into structured, intelligent pipelines that organizations can trust.
+I’m **Anika**, a hybrid of:
 
-My work blends:
+- **Systems Engineer**  
+- **Data Designer**  
+- **AI-Driven Builder**  
+- **Toolmaker**
 
-- **Engineering discipline** — predictable, testable, maintainable pipelines  
-- **Analytical thinking** — understanding data deeply, not just moving it  
-- **System design mindset** — flow, constraints, efficiency  
-- **Aesthetic coding** — clarity, consistency, clean patterns  
+I believe engineering is not just code —  
+it's **architecture, precision, clarity, and intent**.
 
-I thrive where logic meets creativity. My goal is to build **data foundations** that last.
+My passion lies in crafting systems and tools that are:
+
+- predictable  
+- scalable  
+- elegant  
+- and impossible to break  
+
+I build with the mindset of someone who wants to leave behind **systems that outlive trends.**
 
 ---
 
-## 🛠️ Technical Skillset
+# 🧠 My Engineering Philosophy (Signature)
+
+> **"Systems fail when design is weak — not when data is large.  
+> My job is to design systems that never fail."**
+
+This philosophy guides every project I build — from simple utilities to full data pipelines.
+
+---
+
+# 🛠️ Technical Skillset — Depth × Breadth
 
 ### **Core Engineering**
-- ETL Pipelines • Data Modelling • Data Profiling • Data Quality  
-- Workflow Orchestration • Automation • Observability  
+- ETL Pipelines • Data Modeling • Schema Design  
+- Workflow Orchestration • Data Quality Systems  
+- Architecture Thinking • Documentation Discipline  
 
 ### **Data & Big Data**
-- Apache Spark • Kafka • Hadoop Ecosystem  
-- Pandas for fast prototyping  
+- Apache Spark • Kafka • MapReduce Concepts  
+- Pandas for Rapid Prototyping  
 
-### **Cloud & Infra**
-- AWS (S3, EC2, Lambda basics, IAM)  
-- GCP (Storage, Compute, BigQuery concepts)  
+### **Cloud & Infrastructure**
+- AWS → S3, EC2, IAM, Lambda Basics  
+- GCP → BigQuery, Cloud Storage, Cloud Functions  
 
 ### **Programming & Tools**
 - Python • SQL  
-- Git • Docker • CI/CD Basics  
-- JSON, CSV, API Data Processing  
-
-### **Strengths**
-- Clean transformations  
-- Debugging pipelines with precision  
-- Designing for scalability & reliability  
-- High-signal documentation  
+- Git • Docker • CI/CD Fundamentals  
+- JSON, YAML, APIs, Log Processing  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Spark-orange?style=for-the-badge&logo=apachespark"/>
-  <img src="https://img.shields.io/badge/Airflow-navy?style=for-the-badge&logo=apacheairflow"/>
+  <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Spark-black?style=for-the-badge&logo=apachespark"/>
+  <img src="https://img.shields.io/badge/Airflow-black?style=for-the-badge&logo=apacheairflow"/>
   <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws"/>
   <img src="https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=googlecloud"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects  
+# 🚀 Featured Work — Tools, Systems, Intelligence
 
-### 🔹 **Web Scraper — Automated Data Extraction Tool**  
-A sharp, efficient scraper that pulls structured content from webpages and outputs clean CSVs.  
-**Tech:** Python, Requests, BeautifulSoup  
+### 🔹 **MODZ — Command-Driven Text Intelligence Engine (In Progress)**  
+My flagship project: a universal engine that transforms text using human-readable commands.  
+The tool combines **automation**, **NLP logic**, and **system design patterns**.  
+Will evolve into a **VS Code extension + AI-assisted transformer.**
+
+**Tech:** Python, CLI, File Systems, Rule-Based Parsing
+
+---
+
+### 🔹 **Web Scraper — Automated Content Extractor**  
+Pulls structured data from web pages and outputs clean, analysis-ready datasets.  
 **Repo:** https://github.com/Anikakumari12/simple_web_scraper
 
 ---
 
-### 🔹 **JSON → CSV Converter — Intelligent Format Transformer**  
-Transforms nested JSON structures into flat, analysis-ready CSV files.  
-**Tech:** Python, JSON, CSV  
+### 🔹 **JSON → CSV Transformer — Flattening Engine**  
+Turns nested JSON into clean CSVs with schema consistency.  
 **Repo:** https://github.com/Anikakumari12/json-to-csv-converter
 
 ---
 
-### 🔹 **CSV Summary Tool — Lightning-Fast Data Profiler**  
-Generates instant insights: missing values, schema types, distributions, and more.  
-**Tech:** Python, Pandas  
+### 🔹 **CSV Summary Tool — Instant Profiling Utility**  
+Data profiling in one command — missing values, schema, distributions.  
 **Repo:** https://github.com/Anikakumari12/csv-summary-tool-v1
 
 ---
 
-### 🔹 **Text Log Analyzer — Pattern Detection Utility**  
-Processes unstructured logs to extract patterns, events, and error sequences.  
-**Tech:** Python, Regex  
+### 🔹 **Log Analyzer — Pattern Detection Engine**  
+Processes unstructured text logs and extracts meaningful patterns.  
 **Repo:** https://github.com/Anikakumari12/TextLogAnalyzer
 
 ---
 
-### 🔧 **Coming Soon — The Next Level**  
-- **Mod Z — A robust, scalable data engineering pipeline**  
-- **3 full-scale data engineering systems**  
-- **Cloud-first automation workflows**
-
----
-
-
-## 🧭 System Architecture Mindset (Snapshot)
+# 🧭 System Architecture Mindset
 
 ```mermaid
 flowchart LR
   A[Raw Inputs] --> B[Ingestion Layer]
   B --> C[Processing Engine: Spark / Python]
-  C --> D[Structured & Curated Tables]
-  D --> E[Warehouse: BI / Analytics]
-  C --> F[Quality Checks & Alerts]
-  F --> G[Monitoring Dashboards]
+  C --> D[Curated & Structured Data]
+  D --> E[Warehouse → BI/AI]
+  C --> F[Quality Checks]
+  F --> G[Monitoring & Alerts]
 ```
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anikakumari12&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anikakumari12&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anikakumari12&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anikakumari12&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
 
 ## 🌐 Connect With Me
-<p>
-  <b>LinkedIn:</b> https://www.linkedin.com/in/anika-kumari-data-engineer/  
-  <b>Email:</b> anikakumariofficial@gmail.com
+<p align="center">
+  <i>“Engineering is the architecture of logic — and I’m here to build with precision.”</i>
 </p>
+```
 
+🌟 ✨ ANIKA’S ENGINEERING PHILOSOPHY (Anika Kumari)
 
-🎯 Final Philosophy
-
-I believe engineering is an art — clarity is elegance, reliability is beauty, and scalability is intelligence.
-My goal is to build data systems that are simple, predictable, and impossible to break.
-
+I don’t just write code — I architect systems.
+Systems that transform chaos into clarity, scale without breaking, and remain elegant long after execution.
+Complexity is common.
+Clarity is mastery.
+My work is to make clarity inevitable.
