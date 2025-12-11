@@ -102,7 +102,7 @@ Processes unstructured logs to extract patterns, events, and error sequences.
 
 ## 🧭 System Architecture Mindset (Snapshot)
 
-```mermaid
+mermaid
 flowchart LR
   A[Raw Inputs] --> B[Ingestion Layer]
   B --> C[Processing Engine: Spark / Python]
