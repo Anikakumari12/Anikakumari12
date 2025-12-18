@@ -87,7 +87,7 @@ Will evolve into a **VS Code extension + AI-assisted transformer.**
 
 ### 🔹 Clickstream Data Pipeline — User Behavior Analytics
 Processes raw clickstream events into clean, analytics-ready datasets for user behavior analysis.
-**Repo**: https://github.com/Anikakumari12/Clickstream
+**Repo:** https://github.com/Anikakumari12/Clickstream
 
 ---
 
