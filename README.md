@@ -8,174 +8,136 @@
   <img src="https://img.shields.io/badge/Philosophy-Design%20Before%20Scale-green?style=for-the-badge"/>
 </p>
 
----
+🌍 About Me
 
-## 🌍 About Me
+I’m Anika, a systems-oriented data engineer who works close to fundamentals —
+files, pipelines, transformations, and tooling.
 
-I’m **Anika**, a systems-oriented data engineer who enjoys working close to fundamentals —  
-**files, pipelines, transformations, and tooling**.
+I build software that is:
+	•	predictable
+	•	safe to use
+	•	easy to reason about
+	•	hard to break
 
-I focus on building software that is:
+I care less about trends and more about engineering decisions that age well.
 
-- predictable  
-- safe to use  
-- easy to reason about  
-- hard to break  
+⸻
 
-I care less about trends and more about **engineering decisions that age well**.
+🧠 Engineering Philosophy
 
----
+“Most systems don’t fail because of scale.
+They fail because the design didn’t respect reality.”
 
-## 🧠 Engineering Philosophy
+I design systems with:
+	•	explicit behavior
+	•	clear failure modes
+	•	human-readable errors
+	•	safety before automation
 
-> **“Most systems don’t fail because of scale.  
-> They fail because the design didn’t respect reality.”**
+⸻
 
-I design with:
-- explicit behavior  
-- clear failure modes  
-- human-readable errors  
-- safety before automation  
+🛠 Technical Skillset
 
----
+Core Engineering
+	•	ETL pipelines & data transformations
+	•	File-based processing systems
+	•	Validation & defensive error handling
+	•	Command-line tooling
+	•	Modular system design
 
-## 🛠 Technical Focus
+Data & Big Data
+	•	Apache Spark (concepts & applied work)
+	•	Pandas for transformation logic
+	•	Schema & data quality thinking
 
-### Core Engineering
-- ETL pipelines & data transformations  
-- File-based processing systems  
-- Validation & error handling  
-- Command-line tooling  
-- Modular system design  
+Cloud Fundamentals
+	•	AWS: S3, EC2, IAM (basics)
+	•	GCP: BigQuery, Cloud Storage (concepts)
 
-### Data & Big Data
-- Apache Spark (concepts & practice)  
-- Pandas for transformation logic  
-- Schema & data quality thinking  
+Languages & Tools
+	•	Python
+	•	SQL
+	•	Git
+	•	Linux / CLI
+	•	JSON, CSV, Logs
 
-### Cloud Fundamentals
-- AWS: S3, EC2, IAM (basics)  
-- GCP: BigQuery, Cloud Storage (concepts)  
+⸻
 
-### Languages & Tools
-- Python  
-- SQL  
-- Git  
-- Linux / CLI  
-- JSON, CSV, Logs  
+🧭 System Thinking (How I Design Software)
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 MODZ — Command-Driven Text Intelligence Engine
-
-A safety-first CLI tool for predictable text manipulation at scale.
-
-**Tech**
-- Python  
-- CLI argument parsing  
-- File I/O  
-- Safety-first system design  
-
-🔗 **Source:**  
-https://github.com/Anikakumari12/MODZ/tree/master/src
-
----
-
-### 🔹 Clickstream Data Pipeline — User Behavior Analytics
-
-Processes raw clickstream events into clean, analytics-ready datasets.
-
-- Event ingestion & transformation  
-- Structured outputs for analysis  
-- Strong focus on data quality & consistency  
-
-🔗 **Repo:**  
-https://github.com/Anikakumari12/Clickstream
-
----
-
-### 🔹 Web Scraper — Automated Content Extractor
-
-Extracts structured data from web pages and outputs clean CSV files.
-
-- HTML parsing  
-- Reusable scraping logic  
-
-🔗 **Repo:**  
-https://github.com/Anikakumari12/simple_web_scraper
-
----
-
-### 🔹 JSON → CSV Transformer — Schema Flattening Tool
-
-Converts nested JSON into flat, analysis-ready CSVs.
-
-- Handles deeply nested structures  
-- Preserves schema consistency  
-
-🔗 **Repo:**  
-https://github.com/Anikakumari12/json-to-csv-converter
-
----
-
-### 🔹 CSV Summary Tool — Instant Data Profiler
-
-Provides quick insights into CSV datasets.
-
-- Missing value detection  
-- Schema inspection  
-- Lightweight profiling  
-
-🔗 **Repo:**  
-https://github.com/Anikakumari12/csv-summary-tool-v1
-
----
-
-### 🔹 Log Analyzer — Pattern Detection Utility
-
-Analyzes unstructured log files to extract meaningful patterns.
-
-- Regex-based parsing  
-- Error & event detection  
-
-🔗 **Repo:**  
-https://github.com/Anikakumari12/TextLogAnalyzer
-
----
-
-
-🧱 Architecture Diagram (System View)
 flowchart LR
-    A[Raw Input Files<br/>TXT / CSV / LOG / JSON] --> B[Safe File Reader]
-    B --> C[Command Router]
-    C --> D[Operation Engine]
-
-    D --> D1[Delete Family]
-    D --> D2[Replace Family]
-    D --> D3[Future Families]
-
-    D --> E[Preview Mode]
-    D --> F[Commit Mode]
-
-    E --> G[Terminal Output Only]
-    F --> H[Written Output File]
-
-    H --> I[User-Controlled Result]
-
-	
-
----
-
-## 🧭 System Thinking Snapshot
-
-mermaid
-flowchart LR
-  A[Raw Inputs] --> B[Ingestion]
+  A[Raw Inputs] --> B[Ingestion Layer]
   B --> C[Processing Engine]
   C --> D[Structured Outputs]
   C --> E[Validation & Quality Checks]
+
+  I think in flows, boundaries, and failure paths, not just functions.
+
+  🚀 Projects
+
+MODZ — Command-Line Text Processing Tool
+
+A safety-first CLI tool for predictable text manipulation at scale.
+	•	Preview changes before committing
+	•	Explicit commands, no hidden behavior
+	•	Designed to protect user data
+
+Tech: Python, CLI argument parsing, File I/O
+Repo: https://github.com/Anikakumari12/MODZ
+
+⸻
+
+Clickstream Data Pipeline — User Behavior Analytics
+
+Processes raw clickstream events into clean, analytics-ready datasets.
+	•	Event ingestion & transformation
+	•	Structured outputs for downstream analysis
+	•	Emphasis on data quality & consistency
+
+Repo: https://github.com/Anikakumari12/Clickstream
+
+⸻
+
+Web Scraper — Automated Content Extractor
+
+Extracts structured data from web pages and outputs clean CSV files.
+	•	HTML parsing
+	•	Reusable scraping logic
+
+Repo: https://github.com/Anikakumari12/simple_web_scraper
+
+⸻
+
+JSON → CSV Transformer — Schema Flattening Tool
+
+Converts nested JSON into flat, analysis-ready CSVs.
+	•	Handles deeply nested structures
+	•	Preserves schema consistency
+
+Repo: https://github.com/Anikakumari12/json-to-csv-converter
+
+⸻
+
+CSV Summary Tool — Instant Data Profiler
+
+Provides quick insights into CSV datasets.
+	•	Missing values
+	•	Schema inspection
+	•	Lightweight profiling
+
+Repo: https://github.com/Anikakumari12/csv-summary-tool-v1
+
+⸻
+
+Log Analyzer — Pattern Detection Utility
+
+Analyzes unstructured log files to extract meaningful patterns.
+	•	Regex-based parsing
+	•	Error & event detection
+
+Repo: https://github.com/Anikakumari12/TextLogAnalyzer
+
+⸻
 
 📊 GitHub Activity
 
@@ -187,8 +149,6 @@ flowchart LR
 📫 Connect
 	•	LinkedIn: https://www.linkedin.com/in/anika-kumari-data-engineer/
 	•	Email: anigupta9022@gmail.com
-
-<p align="center">
+	<p align="center">
   <i>Building systems that are easy to trust.</i>
 </p>
-
