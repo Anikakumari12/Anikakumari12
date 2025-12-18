@@ -16,21 +16,20 @@
 
 ## 🌍 About Me
 
-I’m **Anika**, a systems-first data engineer who enjoys working close to reality:
+I’m **Anika**, a data engineer focused on building reliable data systems and practical tooling.
 
-- files before frameworks  
-- correctness before scale  
-- design before optimization  
+I work closest to the foundations of data engineering:
+- raw files before dashboards  
+- correctness before optimization  
+- clarity before cleverness  
 
-I build software that is:
+I enjoy designing pipelines and tools that:
+- handle real-world, messy data  
+- fail loudly and predictably  
+- are safe to use by default  
+- scale in understanding before they scale in size  
 
-- predictable  
-- safe by default  
-- easy to reason about  
-- hard to misuse  
-
-I care less about trends and more about **engineering decisions that age well**.
-
+I care less about buzzwords and more about **engineering decisions that continue to make sense as data, users, and complexity grow**.
 ---
 
 ## 🧠 Engineering Philosophy
@@ -187,6 +186,7 @@ https://github.com/Anikakumari12/TextLogAnalyzer
 </p>
 
 📫 Connect
+
 	•	LinkedIn: https://www.linkedin.com/in/anika-kumari-data-engineer/
 	•	Email: anigupta9022@gmail.com
 
