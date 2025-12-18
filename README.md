@@ -193,4 +193,4 @@ https://github.com/Anikakumari12/TextLogAnalyzer
 <p align="center">
   <i>Building systems that are easy to trust.</i>
 </p>
-```
+
