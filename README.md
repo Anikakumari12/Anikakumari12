@@ -85,6 +85,12 @@ Will evolve into a **VS Code extension + AI-assisted transformer.**
 
 ---
 
+### 🔹 **Clickstream Data Pipeline — User Behavior Analytics
+Processes raw clickstream events into clean, analytics-ready datasets for user behavior analysis.
+**Repo**: https://github.com/Anikakumari12/Clickstream
+
+---
+
 ### 🔹 **Web Scraper — Automated Content Extractor**  
 Pulls structured data from web pages and outputs clean, analysis-ready datasets.  
 **Repo:** https://github.com/Anikakumari12/simple_web_scraper
