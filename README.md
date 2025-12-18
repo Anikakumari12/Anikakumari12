@@ -145,6 +145,29 @@ https://github.com/Anikakumari12/TextLogAnalyzer
 
 ---
 
+
+🧱 Architecture Diagram (System View)
+flowchart LR
+    A[Raw Input Files<br/>TXT / CSV / LOG / JSON] --> B[Safe File Reader]
+    B --> C[Command Router]
+    C --> D[Operation Engine]
+
+    D --> D1[Delete Family]
+    D --> D2[Replace Family]
+    D --> D3[Future Families]
+
+    D --> E[Preview Mode]
+    D --> F[Commit Mode]
+
+    E --> G[Terminal Output Only]
+    F --> H[Written Output File]
+
+    H --> I[User-Controlled Result]
+
+	
+
+---
+
 ## 🧭 System Thinking Snapshot
 
 mermaid
