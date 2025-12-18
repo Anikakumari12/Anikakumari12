@@ -1,145 +1,185 @@
+<!-- =======================
+     ANIKA KUMARI — README
+     ======================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2600&pause=1000&color=000000&center=true&vCenter=true&width=950&lines=Anika+Kumari;Systems+%26+Data+Engineer;Building+Reliable+Tools+From+First+Principles" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2800&pause=1200&color=000000&center=true&vCenter=true&width=1100&lines=Anika+Kumari;Systems+%26+Data+Engineer;Designing+Reliable+Systems+From+First+Principles" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%7C%20Systems-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Approach-Clarity%20Over%20Cleverness-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Philosophy-Design%20Before%20Scale-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-Systems%20%26%20Data%20Engineer-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Tooling%20%7C%20Pipelines%20%7C%20Data-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mindset-Clarity%20Over%20Cleverness-green?style=for-the-badge"/>
 </p>
 
-🌍 About Me
+---
 
-I’m Anika, a systems-oriented data engineer who works close to fundamentals —
-files, pipelines, transformations, and tooling.
+## 🌍 About Me
+
+I’m **Anika**, a systems-first data engineer who enjoys working close to reality:
+
+- files before frameworks  
+- correctness before scale  
+- design before optimization  
 
 I build software that is:
-	•	predictable
-	•	safe to use
-	•	easy to reason about
-	•	hard to break
 
-I care less about trends and more about engineering decisions that age well.
+- predictable  
+- safe by default  
+- easy to reason about  
+- hard to misuse  
 
-⸻
+I care less about trends and more about **engineering decisions that age well**.
 
-🧠 Engineering Philosophy
+---
 
-“Most systems don’t fail because of scale.
-They fail because the design didn’t respect reality.”
+## 🧠 Engineering Philosophy
 
-I design systems with:
-	•	explicit behavior
-	•	clear failure modes
-	•	human-readable errors
-	•	safety before automation
+> **“Most systems don’t fail because of scale.  
+> They fail because the design didn’t respect reality.”**
 
-⸻
+My approach emphasizes:
 
-🛠 Technical Skillset
+- explicit behavior  
+- clear failure modes  
+- human-readable errors  
+- safety before automation  
 
-Core Engineering
-	•	ETL pipelines & data transformations
-	•	File-based processing systems
-	•	Validation & defensive error handling
-	•	Command-line tooling
-	•	Modular system design
+---
 
-Data & Big Data
-	•	Apache Spark (concepts & applied work)
-	•	Pandas for transformation logic
-	•	Schema & data quality thinking
+## 🛠 Technical Focus
 
-Cloud Fundamentals
-	•	AWS: S3, EC2, IAM (basics)
-	•	GCP: BigQuery, Cloud Storage (concepts)
+### Core Engineering
+- ETL pipelines & transformations  
+- File-based processing systems  
+- Validation & defensive programming  
+- Command-line tooling  
+- Modular system design  
 
-Languages & Tools
-	•	Python
-	•	SQL
-	•	Git
-	•	Linux / CLI
-	•	JSON, CSV, Logs
+### Data & Big Data
+- Apache Spark (concepts & practice)  
+- Pandas for transformation logic  
+- Schema & data quality thinking  
 
-⸻
+### Cloud Fundamentals
+- AWS: S3, EC2, IAM (basics)  
+- GCP: BigQuery, Cloud Storage (concepts)  
 
-🧭 System Thinking (How I Design Software)
+### Languages & Tools
+- Python  
+- SQL  
+- Git  
+- Linux / CLI  
+- JSON, CSV, Logs  
 
+---
+
+## 🧭 How I Think About Systems
+
+```mermaid
 flowchart LR
   A[Raw Inputs] --> B[Ingestion Layer]
   B --> C[Processing Engine]
   C --> D[Structured Outputs]
   C --> E[Validation & Quality Checks]
+```
+---
 
-  I think in flows, boundaries, and failure paths, not just functions.
+## 🚀 Projects
 
-  🚀 Projects
-
-MODZ — Command-Line Text Processing Tool
+### 🔹 MODZ — Command-Line Text Processing Tool
 
 A safety-first CLI tool for predictable text manipulation at scale.
-	•	Preview changes before committing
-	•	Explicit commands, no hidden behavior
-	•	Designed to protect user data
 
-Tech: Python, CLI argument parsing, File I/O
-Repo: https://github.com/Anikakumari12/MODZ
+**What it solves**
+- Manual editing of large text files
+- Risky operations without preview
+- Accidental data loss during edits
 
-⸻
+**Design highlights**
+- Preview-before-commit workflow
+- Explicit, human-readable commands
+- Zero hidden side effects
 
-Clickstream Data Pipeline — User Behavior Analytics
+**Tech**
+- Python
+- CLI argument parsing
+- File I/O
+- Safety-first system design
 
-Processes raw clickstream events into clean, analytics-ready datasets.
-	•	Event ingestion & transformation
-	•	Structured outputs for downstream analysis
-	•	Emphasis on data quality & consistency
+🔗 **Repository**  
+https://github.com/Anikakumari12/MODZ
 
-Repo: https://github.com/Anikakumari12/Clickstream
+---
 
-⸻
+### 🔹 Clickstream Data Pipeline — User Behavior Analytics
 
-Web Scraper — Automated Content Extractor
+Transforms raw clickstream events into clean, analytics-ready datasets.
 
-Extracts structured data from web pages and outputs clean CSV files.
-	•	HTML parsing
-	•	Reusable scraping logic
+**Highlights**
+- Event ingestion and transformation
+- Structured outputs for downstream analysis
+- Strong focus on data quality and consistency
 
-Repo: https://github.com/Anikakumari12/simple_web_scraper
+🔗 **Repository**  
+https://github.com/Anikakumari12/Clickstream
 
-⸻
+---
 
-JSON → CSV Transformer — Schema Flattening Tool
+### 🔹 Web Scraper — Automated Content Extractor
 
-Converts nested JSON into flat, analysis-ready CSVs.
-	•	Handles deeply nested structures
-	•	Preserves schema consistency
+Extracts structured data from web pages into clean CSV outputs.
 
-Repo: https://github.com/Anikakumari12/json-to-csv-converter
+**Highlights**
+- HTML parsing
+- Reusable and modular scraping logic
 
-⸻
+🔗 **Repository**  
+https://github.com/Anikakumari12/simple_web_scraper
 
-CSV Summary Tool — Instant Data Profiler
+---
+
+### 🔹 JSON → CSV Transformer — Schema Flattening Tool
+
+Converts nested JSON into flat, analysis-ready CSV files.
+
+**Highlights**
+- Handles deeply nested structures
+- Preserves schema consistency
+
+🔗 **Repository**  
+https://github.com/Anikakumari12/json-to-csv-converter
+
+---
+
+### 🔹 CSV Summary Tool — Instant Data Profiler
 
 Provides quick insights into CSV datasets.
-	•	Missing values
-	•	Schema inspection
-	•	Lightweight profiling
 
-Repo: https://github.com/Anikakumari12/csv-summary-tool-v1
+**Highlights**
+- Missing value detection
+- Schema inspection
+- Lightweight profiling
 
-⸻
+🔗 **Repository**  
+https://github.com/Anikakumari12/csv-summary-tool-v1
 
-Log Analyzer — Pattern Detection Utility
+---
 
-Analyzes unstructured log files to extract meaningful patterns.
-	•	Regex-based parsing
-	•	Error & event detection
+### 🔹 Log Analyzer — Pattern Detection Utility
 
-Repo: https://github.com/Anikakumari12/TextLogAnalyzer
+Extracts meaningful patterns from unstructured log files.
 
-⸻
+**Highlights**
+- Regex-based parsing
+- Error and event detection
 
-📊 GitHub Activity
+🔗 **Repository**  
+https://github.com/Anikakumari12/TextLogAnalyzer
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anikakumari12&show_icons=true&hide_border=true" height="160"/>
@@ -149,6 +189,8 @@ Repo: https://github.com/Anikakumari12/TextLogAnalyzer
 📫 Connect
 	•	LinkedIn: https://www.linkedin.com/in/anika-kumari-data-engineer/
 	•	Email: anigupta9022@gmail.com
-	<p align="center">
+
+<p align="center">
   <i>Building systems that are easy to trust.</i>
 </p>
+```
