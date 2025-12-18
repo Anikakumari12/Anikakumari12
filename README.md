@@ -80,7 +80,9 @@ This philosophy guides every project I build — from simple utilities to full d
 My flagship project: a universal engine that transforms text using human-readable commands.  
 The tool combines **automation**, **NLP logic**, and **system design patterns**.  
 Will evolve into a **VS Code extension + AI-assisted transformer.**
+
 **Repo:** https://github.com/Anikakumari12/MODZ/tree/master/src
+
 **Tech:** Python, CLI, File Systems, Rule-Based Parsing
 
 ---
@@ -92,7 +94,8 @@ Processes raw clickstream events into clean, analytics-ready datasets for user b
 ---
 
 ### 🔹 **Web Scraper — Automated Content Extractor**  
-Pulls structured data from web pages and outputs clean, analysis-ready datasets.  
+Pulls structured data from web pages and outputs clean, analysis-ready datasets. 
+
 **Repo:** https://github.com/Anikakumari12/simple_web_scraper
 
 ---
