@@ -147,7 +147,7 @@ https://github.com/Anikakumari12/TextLogAnalyzer
 
 ## 🧭 System Thinking Snapshot
 
-```mermaid
+mermaid
 flowchart LR
   A[Raw Inputs] --> B[Ingestion]
   B --> C[Processing Engine]
@@ -168,4 +168,4 @@ flowchart LR
 <p align="center">
   <i>Building systems that are easy to trust.</i>
 </p>
-```
+
