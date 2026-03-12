@@ -86,6 +86,7 @@ flowchart LR
   C --> D[Analysis & Modeling]
   D --> E[Insights & Visualization]
 ```
+
 🚀 Projects
 
 🤖 AI Business Analyst System
@@ -99,6 +100,7 @@ Core Ideas
 
 Tech Stack
 Python • SQL • PostgreSQL • Streamlit • LLM APIs
+
 
 
 
@@ -116,6 +118,7 @@ Python • Pandas • Statistical Analysis • Tableau
 
 
 
+
 📉 Customer Churn Intelligence System
 
 Predictive analytics platform identifying high-risk customers using behavioral data and machine learning.
@@ -127,6 +130,7 @@ Core Ideas
 
 Tech Stack
 Python • Scikit-learn • Pandas • Streamlit
+
 
 
 
@@ -150,6 +154,7 @@ Python • SQL • ETL Pipelines
   <img src="https://github-readme-stats.vercel.app/api?username=Anikakumari12&show_icons=true&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anikakumari12&hide_border=true" height="160"/>
 </p>
+
 
 📫 Connect With Me
 
