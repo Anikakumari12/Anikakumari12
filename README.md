@@ -12,182 +12,158 @@
   <img src="https://img.shields.io/badge/Mindset-Clarity%20Over%20Complexity-green?style=for-the-badge"/>
 </p>
 
+---
 
-
-# About Me
+# 👋 About Me
 
 I’m **Anika**, an AI-integrated data analyst focused on transforming messy real-world data into reliable insights and decision systems.
 
 My work sits at the intersection of:
 
-- **Data analytics**
-- **Data engineering**
-- **AI-assisted insights**
+• **Data Analytics**  
+• **Data Engineering**  
+• **AI-Assisted Insights**
 
 I enjoy building systems that:
 
-• convert raw datasets into structured analytical data  
-• uncover patterns and anomalies in business data  
-• automate insight generation using AI  
-• help teams make decisions with clarity
+- convert raw datasets into structured analytical data  
+- uncover patterns and anomalies in business data  
+- automate insight generation using AI  
+- help teams make decisions with clarity
 
+---
 
-
-# Engineering Philosophy
+# 🧠 Engineering Philosophy
 
 > **“Data is only useful when it explains reality.”**
 
-My approach to analytics focuses on:
+My approach to analytics emphasizes:
 
 - clarity before complexity  
 - reproducible pipelines  
 - reliable transformations  
 - automated insight generation  
 
-A good data system should answer three questions:
+A strong data system answers three questions:
 
-1. **What happened?**  
-2. **Why did it happen?**  
-3. **What should we do next?**
+1️⃣ What happened?  
+2️⃣ Why did it happen?  
+3️⃣ What should we do next?
 
+---
 
-# Technical Stack
+# 🛠 Technical Stack
 
 ### Programming
 Python  
 SQL  
 
 ### Data Analysis
-Pandas  
-NumPy  
-Exploratory Data Analysis (EDA)  
-Statistical Analysis  
+Pandas • NumPy • Exploratory Data Analysis • Statistical Analysis  
 
 ### Visualization
-Tableau  
-Dashboard Design  
-Data Storytelling  
+Tableau • Dashboard Design • Data Storytelling  
 
 ### Databases
-PostgreSQL  
-Relational Data Modeling  
+PostgreSQL • Relational Data Modeling  
 
 ### AI & Analytics
-LLM APIs  
-Prompt Engineering  
-Natural Language → SQL  
+LLM APIs • Prompt Engineering • Natural Language → SQL  
 
 ### Data Engineering
-ETL Pipelines  
-Data Cleaning  
-Data Transformation  
+ETL Pipelines • Data Cleaning • Data Transformation  
 
 ### Tools
-Git  
-Jupyter Notebook  
-Streamlit  
+Git • Jupyter Notebook • Streamlit  
 
+---
 
+# 🧭 How I Think About Data Systems
 
-# How I Think About Data Systems
-
-``mermaid
+```mermaid
 flowchart LR
   A[Raw Data] --> B[Data Ingestion]
   B --> C[Cleaning & Transformation]
   C --> D[Analysis & Modeling]
   D --> E[Insights & Visualization]
 
-Projects
+🚀 Projects
 
-AI Business Analyst System
+🤖 AI Business Analyst System
 
-AI-powered analytics assistant that converts natural-language business questions into SQL queries and automated insights.
+AI-powered analytics assistant that converts natural language business questions into SQL queries and generates automated insights.
 
-Key ideas
-	•	Natural language → SQL analytics
-	•	automated business insight generation
-	•	interactive analytics interface
+Core Ideas
 
-Tech
+• Natural language → SQL analytics
+• automated business insight generation
+• interactive analytics interface
 
-Python
-SQL
-PostgreSQL
-Streamlit
-LLM APIs
+Tech Stack
 
+Python • SQL • PostgreSQL • Streamlit • LLM APIs
 
+⸻
 
-Automated Executive Analytics Platform
+📊 Automated Executive Analytics Platform
 
-Analytics system that detects business anomalies and automatically generates executive insights from operational data.
+Analytics system that detects anomalies in business metrics and automatically generates executive-level insights.
 
-Key ideas
-	•	automated trend detection
-	•	anomaly detection in business metrics
-	•	executive dashboards
+Core Ideas
 
-Tech
+• automated trend detection
+• anomaly detection in operational metrics
+• executive dashboards for decision making
 
-Python
-Pandas
-Statistical Analysis
-Tableau
+Tech Stack
 
+Python • Pandas • Statistical Analysis • Tableau
 
+⸻
 
-Customer Churn Intelligence System
+📉 Customer Churn Intelligence System
 
-Predictive analytics platform identifying high-risk customers using behavioral data and machine learning.
+Predictive analytics platform identifying high-risk customers using behavioral data and machine learning models.
 
-Key ideas
-	•	churn risk modeling
-	•	behavioral pattern analysis
-	•	explainable analytics
+Core Ideas
 
-Tech
+• churn prediction modeling
+• behavioral pattern analysis
+• explainable analytics insights
 
-Python
-Scikit-learn
-Pandas
-Streamlit
+Tech Stack
 
+Python • Scikit-learn • Pandas • Streamlit
 
+⸻
 
-Clickstream Data Pipeline
+⚙️ Clickstream Data Pipeline
 
-Transforms raw clickstream user interaction events into structured datasets for analytics and dashboard reporting.
+Transforms raw clickstream user interaction events into structured datasets ready for analytics and reporting.
 
-Key ideas
-	•	event ingestion
-	•	structured analytics datasets
-	•	engagement analytics
+Core Ideas
 
-Tech
+• event ingestion pipelines
+• structured analytics datasets
+• customer engagement analysis
 
-Python
-SQL
-ETL Pipelines
+Tech Stack
 
+Python • SQL • ETL Pipelines
 
+⸻
 
-GitHub Activity
+📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anikakumari12&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anikakumari12&hide_border=true" height="160"/>
-</p>
+📫 Connect With Me
 
-Connect With Me
-
-LinkedIn
+🔗 LinkedIn
 https://www.linkedin.com/in/anika-kumari-data-engineer/
 
-Email
+📧 Email
 mskng90756@gmail.com
 
 <p align="center">
   <i>Turning data into clarity.</i>
 </p>
-
+```
