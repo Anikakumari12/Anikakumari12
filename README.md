@@ -1,196 +1,194 @@
-<!-- =======================
-     ANIKA KUMARI — README
-     ======================= -->
+<!-- =========================
+     ANIKA KUMARI — PROFILE
+     ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2800&pause=1200&color=000000&center=true&vCenter=true&width=1100&lines=Anika+Kumari;Systems+%26+Data+Engineer;Designing+Reliable+Systems+From+First+Principles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2800&pause=1200&color=000000&center=true&vCenter=true&width=1100&lines=Anika+Kumari;AI-Integrated+Data+Analyst;Turning+Raw+Data+Into+Business+Insight" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Systems%20%26%20Data%20Engineer-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Tooling%20%7C%20Pipelines%20%7C%20Data-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mindset-Clarity%20Over%20Cleverness-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-AI%20Integrated%20Data%20Analyst-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Analytics%20%7C%20Data%20Systems%20%7C%20AI-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mindset-Clarity%20Over%20Complexity-green?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🌍 About Me
+# About Me
 
-I’m **Anika**, a data engineer focused on building reliable data systems and practical tooling.
+I’m **Anika**, an AI-integrated data analyst focused on transforming messy real-world data into reliable insights and decision systems.
 
-I work closest to the foundations of data engineering:
-- raw files before dashboards  
-- correctness before optimization  
-- clarity before cleverness  
+My work sits at the intersection of:
 
-I enjoy designing pipelines and tools that:
-- handle real-world, messy data  
-- fail loudly and predictably  
-- are safe to use by default  
-- scale in understanding before they scale in size  
+- **Data analytics**
+- **Data engineering**
+- **AI-assisted insights**
 
-I care less about buzzwords and more about **engineering decisions that continue to make sense as data, users, and complexity grow**.
----
+I enjoy building systems that:
 
-## 🧠 Engineering Philosophy
-
-> **“Most systems don’t fail because of scale.  
-> They fail because the design didn’t respect reality.”**
-
-My approach emphasizes:
-
-- explicit behavior  
-- clear failure modes  
-- human-readable errors  
-- safety before automation  
+• convert raw datasets into structured analytical data  
+• uncover patterns and anomalies in business data  
+• automate insight generation using AI  
+• help teams make decisions with clarity
 
 ---
 
-## 🛠 Technical Focus
+# Engineering Philosophy
 
-### Core Engineering
-- ETL pipelines & transformations  
-- File-based processing systems  
-- Validation & defensive programming  
-- Command-line tooling  
-- Modular system design  
+> **“Data is only useful when it explains reality.”**
 
-### Data & Big Data
-- Apache Spark (concepts & practice)  
-- Pandas for transformation logic  
-- Schema & data quality thinking  
+My approach to analytics focuses on:
 
-### Cloud Fundamentals
-- AWS: S3, EC2, IAM (basics)  
-- GCP: BigQuery, Cloud Storage (concepts)  
+- clarity before complexity  
+- reproducible pipelines  
+- reliable transformations  
+- automated insight generation  
 
-### Languages & Tools
-- Python  
-- SQL  
-- Git  
-- Linux / CLI  
-- JSON, CSV, Logs  
+A good data system should answer three questions:
+
+1. **What happened?**  
+2. **Why did it happen?**  
+3. **What should we do next?**
 
 ---
 
-## 🧭 How I Think About Systems
+# Technical Stack
+
+### Programming
+Python  
+SQL  
+
+### Data Analysis
+Pandas  
+NumPy  
+Exploratory Data Analysis (EDA)  
+Statistical Analysis  
+
+### Visualization
+Tableau  
+Dashboard Design  
+Data Storytelling  
+
+### Databases
+PostgreSQL  
+Relational Data Modeling  
+
+### AI & Analytics
+LLM APIs  
+Prompt Engineering  
+Natural Language → SQL  
+
+### Data Engineering
+ETL Pipelines  
+Data Cleaning  
+Data Transformation  
+
+### Tools
+Git  
+Jupyter Notebook  
+Streamlit  
+
+---
+
+# How I Think About Data Systems
 
 ```mermaid
 flowchart LR
-  A[Raw Inputs] --> B[Ingestion Layer]
-  B --> C[Processing Engine]
-  C --> D[Structured Outputs]
-  C --> E[Validation & Quality Checks]
-```
----
+  A[Raw Data] --> B[Data Ingestion]
+  B --> C[Cleaning & Transformation]
+  C --> D[Analysis & Modeling]
+  D --> E[Insights & Visualization]
 
-## 🚀 Projects
+Projects
 
-### 🔹 MODZ — Command-Line Text Processing Tool
+AI Business Analyst System
 
-A safety-first CLI tool for predictable text manipulation at scale.
+AI-powered analytics assistant that converts natural-language business questions into SQL queries and automated insights.
 
-**What it solves**
-- Manual editing of large text files
-- Risky operations without preview
-- Accidental data loss during edits
+Key ideas
+	•	Natural language → SQL analytics
+	•	automated business insight generation
+	•	interactive analytics interface
 
-**Design highlights**
-- Preview-before-commit workflow
-- Explicit, human-readable commands
-- Zero hidden side effects
+Tech
 
-**Tech**
-- Python
-- CLI argument parsing
-- File I/O
-- Safety-first system design
+Python
+SQL
+PostgreSQL
+Streamlit
+LLM APIs
 
-🔗 **Repository**  
-https://github.com/Anikakumari12/MODZ
+⸻
 
----
+Automated Executive Analytics Platform
 
-### 🔹 Clickstream Data Pipeline — User Behavior Analytics
+Analytics system that detects business anomalies and automatically generates executive insights from operational data.
 
-Transforms raw clickstream events into clean, analytics-ready datasets.
+Key ideas
+	•	automated trend detection
+	•	anomaly detection in business metrics
+	•	executive dashboards
 
-**Highlights**
-- Event ingestion and transformation
-- Structured outputs for downstream analysis
-- Strong focus on data quality and consistency
+Tech
 
-🔗 **Repository**  
-https://github.com/Anikakumari12/Clickstream
+Python
+Pandas
+Statistical Analysis
+Tableau
 
----
+⸻
 
-### 🔹 Web Scraper — Automated Content Extractor
+Customer Churn Intelligence System
 
-Extracts structured data from web pages into clean CSV outputs.
+Predictive analytics platform identifying high-risk customers using behavioral data and machine learning.
 
-**Highlights**
-- HTML parsing
-- Reusable and modular scraping logic
+Key ideas
+	•	churn risk modeling
+	•	behavioral pattern analysis
+	•	explainable analytics
 
-🔗 **Repository**  
-https://github.com/Anikakumari12/simple_web_scraper
+Tech
 
----
+Python
+Scikit-learn
+Pandas
+Streamlit
 
-### 🔹 JSON → CSV Transformer — Schema Flattening Tool
+⸻
 
-Converts nested JSON into flat, analysis-ready CSV files.
+Clickstream Data Pipeline
 
-**Highlights**
-- Handles deeply nested structures
-- Preserves schema consistency
+Transforms raw clickstream user interaction events into structured datasets for analytics and dashboard reporting.
 
-🔗 **Repository**  
-https://github.com/Anikakumari12/json-to-csv-converter
+Key ideas
+	•	event ingestion
+	•	structured analytics datasets
+	•	engagement analytics
 
----
+Tech
 
-### 🔹 CSV Summary Tool — Instant Data Profiler
+Python
+SQL
+ETL Pipelines
 
-Provides quick insights into CSV datasets.
+⸻
 
-**Highlights**
-- Missing value detection
-- Schema inspection
-- Lightweight profiling
-
-🔗 **Repository**  
-https://github.com/Anikakumari12/csv-summary-tool-v1
-
----
-
-### 🔹 Log Analyzer — Pattern Detection Utility
-
-Extracts meaningful patterns from unstructured log files.
-
-**Highlights**
-- Regex-based parsing
-- Error and event detection
-
-🔗 **Repository**  
-https://github.com/Anikakumari12/TextLogAnalyzer
-
----
-
-## 📊 GitHub Activity
+GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anikakumari12&show_icons=true&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anikakumari12&hide_border=true" height="160"/>
 </p>
 
-📫 Connect
+Connect With Me
 
-	•	LinkedIn: https://www.linkedin.com/in/anika-kumari-data-engineer/
-	•	Email: anigupta9022@gmail.com
+LinkedIn
+https://www.linkedin.com/in/anika-kumari-data-engineer/
+
+Email
+mskng90756@gmail.com
 
 <p align="center">
-  <i>Building systems that are easy to trust.</i>
+  <i>Turning data into clarity.</i>
 </p>
-
+```
