@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Mindset-Clarity%20Over%20Complexity-green?style=for-the-badge"/>
 </p>
 
----
+
 
 # 👋 About Me
 
@@ -31,7 +31,7 @@ I enjoy building systems that:
 - automate insight generation using AI  
 - help teams make decisions with clarity  
 
----
+
 
 # 🧠 Engineering Philosophy
 
@@ -50,7 +50,7 @@ A strong data system answers:
 2. Why did it happen?  
 3. What should we do next?  
 
----
+
 
 # 🛠 Technical Stack
 
@@ -75,7 +75,7 @@ ETL Pipelines • Data Cleaning • Data Transformation
 ### Tools
 Git • Jupyter Notebook • Streamlit  
 
----
+
 
 # 🧭 How I Think About Data Systems
 
@@ -100,7 +100,7 @@ Core Ideas
 Tech Stack
 Python • SQL • PostgreSQL • Streamlit • LLM APIs
 
-⸻
+
 
 📊 Automated Executive Analytics Platform
 
@@ -114,7 +114,7 @@ Core Ideas
 Tech Stack
 Python • Pandas • Statistical Analysis • Tableau
 
-⸻
+
 
 📉 Customer Churn Intelligence System
 
@@ -128,7 +128,7 @@ Core Ideas
 Tech Stack
 Python • Scikit-learn • Pandas • Streamlit
 
-⸻
+
 
 ⚙️ Clickstream Data Pipeline
 
@@ -142,7 +142,7 @@ Core Ideas
 Tech Stack
 Python • SQL • ETL Pipelines
 
-⸻
+
 
 📊 GitHub Activity
 
