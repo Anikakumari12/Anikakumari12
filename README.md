@@ -92,7 +92,7 @@ Streamlit
 
 # How I Think About Data Systems
 
-```mermaid
+mermaid
 flowchart LR
   A[Raw Data] --> B[Data Ingestion]
   B --> C[Cleaning & Transformation]
@@ -191,4 +191,4 @@ mskng90756@gmail.com
 <p align="center">
   <i>Turning data into clarity.</i>
 </p>
-```
+
