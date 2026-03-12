@@ -20,16 +20,16 @@ I’m **Anika**, an AI-integrated data analyst focused on transforming messy rea
 
 My work sits at the intersection of:
 
-• **Data Analytics**  
-• **Data Engineering**  
-• **AI-Assisted Insights**
+• Data Analytics  
+• Data Engineering  
+• AI-Assisted Insights  
 
 I enjoy building systems that:
 
 - convert raw datasets into structured analytical data  
 - uncover patterns and anomalies in business data  
 - automate insight generation using AI  
-- help teams make decisions with clarity
+- help teams make decisions with clarity  
 
 ---
 
@@ -37,26 +37,25 @@ I enjoy building systems that:
 
 > **“Data is only useful when it explains reality.”**
 
-My approach to analytics emphasizes:
+My analytics approach emphasizes:
 
 - clarity before complexity  
 - reproducible pipelines  
 - reliable transformations  
 - automated insight generation  
 
-A strong data system answers three questions:
+A strong data system answers:
 
-1️⃣ What happened?  
-2️⃣ Why did it happen?  
-3️⃣ What should we do next?
+1. What happened?  
+2. Why did it happen?  
+3. What should we do next?  
 
 ---
 
 # 🛠 Technical Stack
 
 ### Programming
-Python  
-SQL  
+Python • SQL  
 
 ### Data Analysis
 Pandas • NumPy • Exploratory Data Analysis • Statistical Analysis  
@@ -94,13 +93,11 @@ flowchart LR
 AI-powered analytics assistant that converts natural language business questions into SQL queries and generates automated insights.
 
 Core Ideas
-
-• Natural language → SQL analytics
-• automated business insight generation
-• interactive analytics interface
+	•	Natural language → SQL analytics
+	•	automated business insight generation
+	•	interactive analytics interface
 
 Tech Stack
-
 Python • SQL • PostgreSQL • Streamlit • LLM APIs
 
 ⸻
@@ -110,50 +107,49 @@ Python • SQL • PostgreSQL • Streamlit • LLM APIs
 Analytics system that detects anomalies in business metrics and automatically generates executive-level insights.
 
 Core Ideas
-
-• automated trend detection
-• anomaly detection in operational metrics
-• executive dashboards for decision making
+	•	automated trend detection
+	•	anomaly detection in operational metrics
+	•	executive dashboards
 
 Tech Stack
-
 Python • Pandas • Statistical Analysis • Tableau
 
 ⸻
 
 📉 Customer Churn Intelligence System
 
-Predictive analytics platform identifying high-risk customers using behavioral data and machine learning models.
+Predictive analytics platform identifying high-risk customers using behavioral data and machine learning.
 
 Core Ideas
-
-• churn prediction modeling
-• behavioral pattern analysis
-• explainable analytics insights
+	•	churn prediction modeling
+	•	behavioral pattern analysis
+	•	explainable analytics
 
 Tech Stack
-
 Python • Scikit-learn • Pandas • Streamlit
 
 ⸻
 
 ⚙️ Clickstream Data Pipeline
 
-Transforms raw clickstream user interaction events into structured datasets ready for analytics and reporting.
+Transforms raw clickstream user interaction events into structured datasets for analytics and reporting.
 
 Core Ideas
-
-• event ingestion pipelines
-• structured analytics datasets
-• customer engagement analysis
+	•	event ingestion pipelines
+	•	structured analytics datasets
+	•	engagement analytics
 
 Tech Stack
-
 Python • SQL • ETL Pipelines
 
 ⸻
 
 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anikakumari12&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anikakumari12&hide_border=true" height="160"/>
+</p>
 
 📫 Connect With Me
 
@@ -162,7 +158,6 @@ https://www.linkedin.com/in/anika-kumari-data-engineer/
 
 📧 Email
 mskng90756@gmail.com
-
 <p align="center">
   <i>Turning data into clarity.</i>
 </p>
