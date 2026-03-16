@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Anikakumari12/Anikakumari12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Anika Kumari
+### AI-Integrated Data Analyst
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Live-00d4ff?style=for-the-badge)](https://anikakumari12.github.io/Anikakumari12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anika-kumari-data-engineer/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mskng90756@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**SQL · Python · Tableau · LLM APIs · PostgreSQL · Streamlit**
+
+> Building AI-powered analytics systems that turn raw data into business decisions.
+
+🎯 Target Corporation Internship · 3 Major AI Projects · Open to Work — Bengaluru
+
+</div>
